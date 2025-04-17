@@ -1,12 +1,23 @@
-<<<<<<< HEAD
-# FinalYearProject-DUPFREE-
-=======
-# React + Vite
+📂 DUPFREE – Google Drive Image Deduplication & Categorization
+An intelligent web app to detect duplicate images and categorize photos directly from your Google Drive using perceptual hashing and SIFT.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+🔐 Google OAuth login & Drive integration
 
-Currently, two official plugins are available:
+📁 Select Google Drive folders
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 60bb006b (inital commit)
+🔍 Detect duplicate images (pHash + SIFT)
+
+📊 Categorize image types (coming soon)
+
+⚡ Smooth UI with animated text and gradients
+
+📸 View processed results in your Drive
+
+🧠 Tech Stack
+Frontend: React, Tailwind CSS, CoreUI, Lucide Icons
+
+Backend: Flask, Google Drive API (OAuth2)
+
+Image Processing: OpenCV, NumPy, imagehash, PIL
+
