@@ -1,4 +1,5 @@
 📂 DUPFREE – Google Drive Image Deduplication & Categorization
+
 An intelligent web app to detect duplicate images and categorize photos directly from your Google Drive using perceptual hashing and SIFT.
 
 🌟 Features
@@ -14,7 +15,11 @@ An intelligent web app to detect duplicate images and categorize photos directly
 
 📸 View processed results in your Drive
 
+
+
 🧠 Tech Stack
+
+
 Frontend: React, Tailwind CSS, CoreUI, Lucide Icons
 
 Backend: Flask, Google Drive API (OAuth2)
